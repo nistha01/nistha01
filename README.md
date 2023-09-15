@@ -30,7 +30,7 @@ I thrive on challenges and am committed to staying updated with the latest trend
   
 
 - 🌱 I’m currently learning Kotlin and Kubernetes
-- - 👨‍💻 All of my projects are available at [My gitHub](https://github.com/nistha01)
+- 👨‍💻 All of my projects are available at [My gitHub](https://github.com/nistha01)
   
 
 - ❓ Ask me about anything related to Java Backend and related technologies
@@ -80,7 +80,8 @@ I thrive on challenges and am committed to staying updated with the latest trend
 
 </td><td valign="top" width="20%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nistha01&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nistha01&hide_border=true&layout=compact" align="left" style="width: 50%" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nistha01&" alt="nistha01" /></p>
 
 </tr></table>  
 
