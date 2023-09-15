@@ -24,6 +24,7 @@ I thrive on challenges and am committed to staying updated with the latest trend
 
 
 ## Rapidfire  
+![Profile views counter](https://komarev.com/ghpvc/?username=nistha01&&style=flat-square)  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on **Spring boot, Spring Security**  
@@ -74,16 +75,20 @@ I thrive on challenges and am committed to staying updated with the latest trend
 
 
 ## Github Stats  
-<table><tr>
+<div align="center">
+  <table><tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nistha01&show_icons=true&count_private=true&hide_border=true" align="centre" style="width: 70%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nistha01&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 70%" />
 
-</td><td valign="center" width="150%">
+</td><td valign="" width="150%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nistha01&hide_border=true&layout=compact" align="center" style="width: 60%" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nistha01&" alt="nistha01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nistha01&" alt="nistha01" align="center"/></p>
+
 
 </tr></table>  
+</div>
+
 
 <br/>  
 
@@ -91,7 +96,7 @@ I thrive on challenges and am committed to staying updated with the latest trend
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=nistha01&&style=flat-square)  
+
   
 
 <br/>  
