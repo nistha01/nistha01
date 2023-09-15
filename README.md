@@ -26,13 +26,15 @@ I thrive on challenges and am committed to staying updated with the latest trend
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Hi, You can find my all projects here on [My github](https://github.com/nistha01)  
+- 🔭 I’m currently working on **Spring boot, Spring Security**  
   
 
-- 🌱 I’m currently learning Kotlin and Kubernetes  
+- 🌱 I’m currently learning Kotlin and Kubernetes
+- - 👨‍💻 All of my projects are available at [My gitHub](https://github.com/nistha01)
   
 
-- ❓ Ask me about anything related to Java Backend and related technologies  
+- ❓ Ask me about anything related to Java Backend and related technologies
+- 📫 How to reach me **nksuryavanshi108@gmail.com**
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
