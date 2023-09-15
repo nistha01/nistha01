@@ -78,7 +78,7 @@ I thrive on challenges and am committed to staying updated with the latest trend
 
 <img src="https://github-readme-stats.vercel.app/api?username=nistha01&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
 
-</td><td valign="top" width="20%">
+</td><td valign="left" width="300%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nistha01&hide_border=true&layout=compact" align="left" style="width: 50%" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nistha01&" alt="nistha01" /></p>
@@ -103,5 +103,4 @@ I thrive on challenges and am committed to staying updated with the latest trend
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
