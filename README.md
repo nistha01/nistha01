@@ -40,7 +40,7 @@ I thrive on challenges and am committed to staying updated with the latest trend
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" border="none">
 
 <div align="center">
 <img src="https://www.pngmart.com/files/22/Programmer-PNG-Free-Download.png" align="center" style="width: 70%" />
@@ -76,11 +76,11 @@ I thrive on challenges and am committed to staying updated with the latest trend
 ## Github Stats  
 <table><tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nistha01&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nistha01&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 70%" />
 
-</td><td valign="left" width="300%">
+</td><td valign="center" width="150%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nistha01&hide_border=true&layout=compact" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nistha01&hide_border=true&layout=compact" align="center" style="width: 60%" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nistha01&" alt="nistha01" /></p>
 
 </tr></table>  
